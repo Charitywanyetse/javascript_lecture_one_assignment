@@ -1,0 +1,2 @@
+# javascript_lecture_one_assignment
+javascript lecture one
